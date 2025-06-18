@@ -1,16 +1,3 @@
-# demo
+🌾 Agriculture Tender Blockchain App
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A decentralized application (DApp) that empowers farmers, middlemen, and businessmen through transparent and secure agricultural trade using Blockchain, IPFS, Node.js, and Flutter. This app allows farmers to upload crop details, middlemen (Gram Sabha-appointed) to mediate fairly, and businesses to post and fulfill tenders—all tracked via smart contracts for automated, trustless transactions. IPFS ensures decentralized data storage, promoting data integrity and accessibility.
